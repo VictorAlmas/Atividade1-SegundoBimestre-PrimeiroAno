@@ -24,7 +24,7 @@ programa
 		escreva("Dobro da Area: " , Largura * Comprimento * 2 , " M" , "\n")
 		escreva("Dobro da Area em Cm: " , Largura * Comprimento * 2 * 100 , " Cm")
 
-		// Asinatura do mestrier
+		// Asinatura do mestrier Victor
 
 		
 	}
