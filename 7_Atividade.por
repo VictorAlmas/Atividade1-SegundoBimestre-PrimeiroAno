@@ -20,7 +20,8 @@ programa
 		leia(nota4)
 
 		// Output
-		real Soma = nota1 + nota2 + nota3 + nota4
-		escreva("Tua media é ", Soma / 4)
+		real Media = (nota1 + nota2 + nota3 + nota4) / 4
+		escreva("Tua media é ", Media)
 	}
 }
+
